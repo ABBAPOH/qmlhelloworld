@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qbshello.qml</file>
+        <file>View.qml</file>
+    </qresource>
+</RCC>
